@@ -33,14 +33,11 @@
 </p>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <br/>
-  
+ 
+ <h3> Some of my stats :bar_chart: </h3>
+
 
 [![xsilvac GitHub stats](https://github-readme-stats.vercel.app/api?username=xsilvac)](https://github.com/xsilvac/github-readme-stats)
-
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=xsilvac&layout=compact)](https://github.com/xsilvac/github-readme-stats)
-
-<a href="https://github.com/xsilvac/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsilvac&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 
