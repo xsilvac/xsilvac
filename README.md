@@ -42,10 +42,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsilvac&langs_count=8)](https://github.com/xsilvac/github-readme-stats)
 
 
-<p align = "center">
+<a align = "center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsilvac&layout=compact)](https://github.com/xsilvac/github-readme-stats)
 	
-</p>
+</a>
 
 
 
