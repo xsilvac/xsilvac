@@ -36,13 +36,9 @@
   
 
 [![xsilvac GitHub stats](https://github-readme-stats.vercel.app/api?username=xsilvac)](https://github.com/xsilvac/github-readme-stats)
-<br/>
- <br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsilvac)](https://github.com/xsilvac/github-readme-stats)
 
-<a>                 </a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsilvac-Lc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
-
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=xsilvac-Lc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> </a>   <a>                 </a> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsilvac-Lc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
 
 <h3 align="left">Contactos:</h3>
