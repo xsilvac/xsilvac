@@ -31,6 +31,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+<h3 align="left">Contactos:</h3>
+<p align="left">
+ <a href="https://www.linkedin.com/in/ximenasilvacotrina/" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="b" height="40" width="40" /></a>
+ <a href="ximenasilvacotrina11@gmail.com" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="b" height="40" width="40" /></a>
+
+
 [![xsilvac GitHub stats](https://github-readme-stats.vercel.app/api?username=xsilvac)](https://github.com/xsilvac/github-readme-stats)
 
 
