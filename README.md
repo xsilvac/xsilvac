@@ -38,9 +38,11 @@
 [![xsilvac GitHub stats](https://github-readme-stats.vercel.app/api?username=xsilvac)](https://github.com/xsilvac/github-readme-stats)
 <br/>
  <br/>
+[![xsilvac Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsilvac)](https://github.com/xsilvac/github-readme-stats)
 
 <h3 align="left">Contactos:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/ximenasilvacotrina/" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="b" height="40" width="40" /></a>
  <a href="mailto:ximenasilvacotrina11@gmail.com" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="b" height="40" width="40" /></a>
+ <a href="https://app.slack.com/client/T0NNB6T0R/D02VB07GWQ5/rimeto_profile/U030CGJU6NM"> <img src="https://img.icons8.com/color/48/000000/slack-new.png" width='30' height='30' alt='slack'/></a> 
 
