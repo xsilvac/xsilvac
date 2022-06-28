@@ -20,11 +20,11 @@
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VisualStudio" width="40" height="40"/> </a>
 <br/>
  <br/>
-  <br/>
 
 </p>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
+<br/>
+ <br/>
   
 - 🔭 I’m currently working on Burger Queen with React
 - 🌱 I’m currently learning React and Bootstrap
@@ -35,11 +35,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-
-
+<br/>
+ <br/>
 
 [![xsilvac GitHub stats](https://github-readme-stats.vercel.app/api?username=xsilvac)](https://github.com/xsilvac/github-readme-stats)
-
+<br/>
+ <br/>
 
 <h3 align="left">Contactos:</h3>
 <p align="left">
