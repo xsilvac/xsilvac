@@ -18,8 +18,9 @@
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="gitHub" width="40" height="40"/> </a> 
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VisualStudio" width="40" height="40"/> </a>
-
- 
+<br/>
+ <br/>
+  <br/>
 
 </p>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
@@ -34,12 +35,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<h3 align="left">Contactos:</h3>
-<p align="left">
- <a href="https://www.linkedin.com/in/ximenasilvacotrina/" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="b" height="40" width="40" /></a>
- <a href="mailto:ximenasilvacotrina11@gmail.com" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="b" height="40" width="40" /></a>
+
 
 
 [![xsilvac GitHub stats](https://github-readme-stats.vercel.app/api?username=xsilvac)](https://github.com/xsilvac/github-readme-stats)
 
+
+<h3 align="left">Contactos:</h3>
+<p align="left">
+ <a href="https://www.linkedin.com/in/ximenasilvacotrina/" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="b" height="40" width="40" /></a>
+ <a href="mailto:ximenasilvacotrina11@gmail.com" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="b" height="40" width="40" /></a>
 
