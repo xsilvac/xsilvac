@@ -34,18 +34,15 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <br/>
   
-<p align = "center">
+
 [![xsilvac GitHub stats](https://github-readme-stats.vercel.app/api?username=xsilvac)](https://github.com/xsilvac/github-readme-stats)
-</p>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsilvac&langs_count=8)](https://github.com/xsilvac/github-readme-stats)
 
 
-<a align = "center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsilvac&layout=compact)](https://github.com/xsilvac/github-readme-stats)
-	
-</a>
 
 
 
