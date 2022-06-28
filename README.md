@@ -3,7 +3,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0C1EF7&background=A625FF00&lines=Hi%2C+I'm+Ximena+Silva+%F0%9F%91%8B;Welcome+to+my+repository+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 </h1>
 
+- 🔭 I’m currently working on Burger Queen with React
+- 🌱 I’m currently learning React and Bootstrap
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...<
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 
+<br/>
+ <br/>
+ 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></a> 
@@ -24,19 +35,7 @@
 </p>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <br/>
- <br/>
   
-- 🔭 I’m currently working on Burger Queen with React
-- 🌱 I’m currently learning React and Bootstrap
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...<
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-<br/>
- <br/>
 
 [![xsilvac GitHub stats](https://github-readme-stats.vercel.app/api?username=xsilvac)](https://github.com/xsilvac/github-readme-stats)
 <br/>
