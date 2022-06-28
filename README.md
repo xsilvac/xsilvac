@@ -40,6 +40,8 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsilvac&layout=compact)](https://github.com/xsilvac/github-readme-stats)
 
+<a href="https://github.com/xsilvac/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsilvac&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
 
 
 <h3 align="left">Contactos:</h3>
