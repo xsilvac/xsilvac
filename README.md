@@ -37,7 +37,7 @@
 
 [![xsilvac GitHub stats](https://github-readme-stats.vercel.app/api?username=xsilvac)](https://github.com/xsilvac/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsilvac&layout=compact)](https://github.com/xsilvac/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsilvac&langs_count=8)](https://github.com/xsilvac/github-readme-stats)
 
 
 
