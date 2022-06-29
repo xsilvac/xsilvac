@@ -5,15 +5,6 @@
 <br/>
 <img lign="center" src="https://github.com/xsilvac/xsilvac/blob/main/XimenaSilva.png" alt="Portada"/>
 
-- 🔭 I’m currently working on Burger Queen with React
-- 🌱 I’m currently learning React and Bootstrap
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...<
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
 <br/>
  
 <h3 align="left">Languages and Tools:</h3>
