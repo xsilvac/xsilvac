@@ -2,6 +2,8 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0C1EF7&background=A625FF00&lines=Hi%2C+I'm+Ximena+Silva+%F0%9F%91%8B;Welcome+to+my+repository+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 </h1>
+<br/>
+<img lign="center" src="https://github.com/xsilvac/xsilvac/blob/main/XimenaSilva.png" alt="Portada"/>
 
 - 🔭 I’m currently working on Burger Queen with React
 - 🌱 I’m currently learning React and Bootstrap
